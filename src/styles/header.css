@@ -1,0 +1,34 @@
+.container_header{
+    background-color:#23A1E9 ;
+    height: 120px;
+    justify-content: center; 
+    align-items: center; 
+    display: flex;
+    
+}
+.group_list_header{
+   
+    display: inline-block;
+}
+.list_item_header{
+    display: inline-block;
+    margin: 0px  30px;
+    font-size: 25px;
+    color: white; 
+    transition: .5s;
+}
+.list_item_header:hover{
+    color: rgb(178, 215, 248);
+    cursor: pointer;
+    
+}
+.group_list_header_name{
+    width: 40%;
+    display: inline-block;
+    list-style: none;
+
+}
+.list_item_header_name{
+    font-size: 30px;
+    color: white;
+}

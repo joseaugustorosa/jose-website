@@ -1,0 +1,31 @@
+.main_container_profile{
+    margin: 50px 0px;
+}
+.container_profile{
+    width: 60%;
+    margin: auto;
+    height: 400px;
+    background-color: #d8d8d86c ;
+    
+    border-radius: 30px;
+}
+.photo_profile{
+    justify-content: center; 
+    align-items: center; 
+    display: flex;
+    height: 100%;
+    display: inline-block;
+    width: 50%;
+    text-align: center;
+    
+}
+.content_profile{
+    display: inline-block;
+    
+    height: 100%;
+    width: 50%;
+}
+.photo{
+    width: 50%;
+    margin-top: 100px;
+}
